@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573940534584",
+    "project_id": "loginwithfirebase-1f55e",
+    "storage_bucket": "loginwithfirebase-1f55e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573940534584:android:c3f9dad553c831ac78c5cd",
+        "android_client_info": {
+          "package_name": "com.nicholas.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573940534584-j7evf2dpt4j1egb1p4gsrjj62ji6pock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3f7l2bBgE-OOUx5_8PfNS0mshoORonr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573940534584-j7evf2dpt4j1egb1p4gsrjj62ji6pock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

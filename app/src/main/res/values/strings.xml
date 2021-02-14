@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginWithFirebase</string>
+    <string name="name">name</string>
+    <string name="prompt_email">prompt_email</string>
+    <string name="phone_number">phone_number</string>
+    <string name="prompt_password">prompt_password</string>
+    <string name="register">Register</string>
+    <string name="not_register">not_register</string>
+    <string name="login">Login</string>
+    <string name="create_new">create_new</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+</resources>
